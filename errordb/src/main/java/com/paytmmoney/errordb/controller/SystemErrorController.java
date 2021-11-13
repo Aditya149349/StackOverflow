@@ -1,10 +1,8 @@
 
 package com.paytmmoney.errordb.controller;
 
-//import com.paytmmoney.equities.bo.commonuser.entity.UserSystem;
-//import com.paytmmoney.errordb.entity.SystemErrors;
 import com.paytmmoney.errordb.repository.BeanTest;
-//import com.paytmmoney.errordb.repository.RedisErrorRepository;
+
 import com.paytmmoney.errordb.repository.User;
 import com.paytmmoney.errordb.service.BeanService;
 import org.apache.commons.lang3.StringUtils;
